@@ -42,7 +42,7 @@ public class KembalianUang {
     
     public static void main(String[] args) {
         // TODO code application logic here
-        
+//        misal kembalian yang diperlukan adalah 505 ribu rupiah
         int kembalian = 505000;
         
         int pecahan_kembalian[][] = Kembalian (kembalian);
